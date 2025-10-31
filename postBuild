@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Post-build: Installing additional tools if needed"
+yt-dlp --update  # Update yt-dlp if possible
